@@ -9,3 +9,5 @@ Possible improvements (feel free to diy):
 * exciting game-over notification (win/lose)
 * smarter board generation
 * configurable board size/number of mines
+
+![Screenshot](Screenshot.png)
